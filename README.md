@@ -54,6 +54,8 @@ Student-Management-System/
 ├── README.md
 ├── LICENSE
 
+---
+
 ## ▶️ How to Run the Project
 
 ## Prerequisites
@@ -73,7 +75,9 @@ Student-Management-System/
 3. Run the program:
    ```bash
    python main.py
-   
+
+---
+
 ## 📊 Reports & Statistics
 
 The system can generate:
@@ -86,6 +90,8 @@ The system can generate:
     * Average age
     * Course distribution
 
+---
+
 ## 🎯 Project Purpose
 
 This project was developed as a 2nd Semester Project to:
@@ -93,6 +99,8 @@ This project was developed as a 2nd Semester Project to:
 * Apply object-oriented principles
 * Understand file handling and data persistence
 * Build a real-world console-based application
+
+---
 
 # License
 
