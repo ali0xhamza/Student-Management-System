@@ -46,11 +46,11 @@ https://github.com/ali0xhamza/Student-Management-System/releases/tag/v1.0.0
 
 ## 📂 Project Structure
 
-```text
 Student-Management-System/
 │
 ├── main.py
 ├── students_data.json
+├── students_data.txt
 ├── README.md
 ├── LICENSE
 
